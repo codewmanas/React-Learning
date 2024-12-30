@@ -1,5 +1,5 @@
 # React-Learning
-![React Banner](https://reactjs.org/logo-og.png)
+![React Banner](https://quilltez.com/sites/default/files/2023-11/1_U62pEikCBvM1gjIDlAry7Q.png)
 
 Welcome to the **React Learning** repository! This repo contains everything I've learned about React.
 
